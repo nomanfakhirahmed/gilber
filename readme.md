@@ -1,4 +1,7 @@
 # GILBER - *Learning Project*
+
+![Gilber Portfolio Snapshot](./resources/visuals/snapshot.jpg)
+
 ## Disclaimer
 > **Educational Use Only**
 
