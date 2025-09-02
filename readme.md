@@ -1,7 +1,5 @@
 # GILBER - *Learning Project*
 
-![Gilber Portfolio Snapshot](./resources/visuals/snapshot.jpg)
-
 ## Disclaimer
 > **Educational Use Only**
 
@@ -19,3 +17,5 @@ This repository is a personal learning project based on the _Gilber_ Figma portf
 | __Author__ | Paul. |
 | __Theme Link__ | [View on Themeforest]([text](https://themeforest.net/item/gilber-personal-cvresume-figma-template/29517617?srsltid=AfmBOoo2HTZZD51GdIs5CYCKvl2KSzdZbGTg3FF7Zm3pnZ26Yq5wNRNO))|
 | __Usage__ | Not for commercial use; redistribution or sale is __strictly prohibited__ |
+
+![Gilber Portfolio Snapshot](./resources/visuals/snapshot.jpg)
