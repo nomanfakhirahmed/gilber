@@ -11,8 +11,8 @@ This repository is a personal learning project based on the _Gilber_ Figma portf
 
 | Item | Description |
 | --- | --- |
-| [x] __Purpose__ | Educational / Learning project |
-| [x] __Original Theme__ | _Gilber_ Figma theme |
-| [x] __Author__ | Paul. |
-| [x] __Theme Link__ | [View on Themeforest]([text](https://themeforest.net/item/gilber-personal-cvresume-figma-template/29517617?srsltid=AfmBOoo2HTZZD51GdIs5CYCKvl2KSzdZbGTg3FF7Zm3pnZ26Yq5wNRNO))|
-| [x] __Usage__ | Not for commercial use; redistribution or sale is __strictly prohibited__ |
+| __Purpose__ | Educational / Learning project |
+| __Original Theme__ | _Gilber_ Figma theme |
+| __Author__ | Paul. |
+| __Theme Link__ | [View on Themeforest]([text](https://themeforest.net/item/gilber-personal-cvresume-figma-template/29517617?srsltid=AfmBOoo2HTZZD51GdIs5CYCKvl2KSzdZbGTg3FF7Zm3pnZ26Yq5wNRNO))|
+| __Usage__ | Not for commercial use; redistribution or sale is __strictly prohibited__ |
